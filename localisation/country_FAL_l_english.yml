@@ -3,108 +3,108 @@
 ### FOCUS LOCALISATION ####################
 ###########################################
 #industrial path
-FAL_educate_farmers:0 "Dissolve Feudal Archaisms"
+FAL_educate_farmers:0 "봉건 고문체를 끝내다"
 FAL_educate_farmers_desc:0 "[FAL.GetName] has never been a particularly developed nation, but the loss of our prized capital has seemingly put any progress to a halt. To address the various issues that concern our nation, serfdom and tithes are to be abolished, and a more contemporary system emulating ones in Aquila and Griffenheim shall be established. By no means will this solve all our problems, but it is a painful start."
 
-FAL_new_factories:0 "New Industrial Base"
+FAL_new_factories:0 "새로운 산업 부지"
 FAL_new_factories_desc:0 "Outside of Falcor, beyond our grasp, industrialisation has been sporadic and incomplete, only pursued by those with the means to generate a profit. The government will commence the funding of state sponsored factories to resolve the lack of jobs and goods."
 
-FAL_new_military_factories:0 "Expand Military Workshops"
+FAL_new_military_factories:0 "군사 워크샵 확장"
 FAL_new_military_factories_desc:0 "The nation needs arms. The only certainty of our future is that there will be strife, and we must be ready to protect ourselves. We might be weakened, but we will never yield as long as we can fight, and fight we shall!"
 
 FAL_better_farmers:0 "Implements of the Modern Age"
 FAL_better_farmers_desc:0 "Iron ploughs, rusted tools, broken pickaxes shall be a thing of the past. To truly bring our nation to industrial revolution, we require sturdy implements for our workers. Only that way can they efficiently perform their duties! Although we do not have the means to produce such instruments, we are capable of importing them from the north."
 
-FAL_stabalize_economy:0 "Increase Living Standards"
+FAL_stabalize_economy:0 "생활 수준 향상"
 FAL_stabalize_economy_desc:0 "Initial reforms have given their yield, and the former serfs now breathe the air of freedom. Many now flock to the cities in search of a better life, but the conditions are cramped and squalid. We should act before the problem exacerbates."
 
-FAL_better_factories:0 "Improving the Process of Production"
+FAL_better_factories:0 "생산 프로세스 개선"
 FAL_better_factories_desc:0 "Factory work is a novelty to many griffons, and a lot of our tools and machinery are dated and potentially hazardous. Investments should be made in this area, to encourage our labourers to work harder, with the contemporary technology."
 
-FAL_better_intel:0 "Electronical Ingenuity"
+FAL_better_intel:0 "전자적 독창성"
 FAL_better_intel_desc:0 "Radios, computers, anything that runs on electrical power are very hard to find in the Falcor of today. Lagging behind in such inventions would be devastating for our nation, which is why we must make strides in importing these gadgets, and reverse-engineering them so that we can produce our own variants."
 
-FAL_new_trains:0 "Double the Railway Lines"
+FAL_new_trains:0 "복선 철도"
 FAL_new_trains_desc:0 "At the current state of development, trains are the fastest method for civilian transport, military redeployments and moving goods around. However, our steam locomotives are slow and need to be replaced. Additionally, we shall look into building new railway lines for the new trains, which will also use a different gauge compared to the Wingbardian ones."
 
-FAL_improve_illiteracy:0 "Combating Illiteracy"
+FAL_improve_illiteracy:0 "문맹 퇴치"
 FAL_improve_illiteracy_desc:0 "Most griffons pay no heed to books and knowledge, for their burdens are great, and their time is precious and little. As such, a dedicated campaign towards teaching everygriff how to read and write will be funded: employers will provide basic training, access to libraries will be improved, and we'll reach out to farflung communities."
 
-FAL_industry1:0 "Industrial Modernisation"
+FAL_industry1:0 "산업 현대화"
 FAL_industry1_desc:0 "First steps towards progress have been taken. The city of Matton has successfully implemented telegraph lines, electrical based machinery and more. It would only be logical to extend these advancements to the rest of Falcor, so that we all may benefit from novelty."
 
-FAL_science1:0 "A New Pursuit for Science"
+FAL_science1:0 "과학을 위한 새로운 추구"
 FAL_science1_desc:0 "As Falcorians slowly become more and more literate, new possibilities are opening. Higher degree schools can be opened, jobs that don't involve heavy physical exertion are becoming commonplace. All this and more will ensure our place in the world as a nation of literate griffons."
 
-FAL_scientific_greatness:0 "[Root.Capital.GetName] University"
+FAL_scientific_greatness:0 "[Root.Capital.GetName] 대학"
 FAL_scientific_greatness_desc:0 "[FAL.GetLeader] has proudly announced the opening of the first higher learning institute in our nation, the [Root.Capital.GetName] University. It will provide our best and brightest citizens with the prospect of greater learning. At the present moment, this facility will offer faculties in history, engineering and mathematics."
 
 FAL_more_schools:0 "Compulsory and Complimentary"
 FAL_more_schools_desc:0 "Education shall be the right of all griffons dwelling in this nation, regardless of their position. It shall also be made mandatory for everygriffon, with no charge attached to it. The government will have to cover the cost of it, but it is the only way illiteracy can be eliminated."
 
-FAL_can_read:0 "A Literate Falcor"
+FAL_can_read:0 "문해 팔코르"
 FAL_can_read_desc:0 "Our efforts have paid off and now almost every Falcorian is able to read and write. Illiteracy in major cities has decreased under 1% for both adult and children, and even in the countryside the rates don't go over 3%. The nation as a whole will benefit from our learned citizens."
 
-FAL_farmers_can_read:0 "Feudalism Abolished"
+FAL_farmers_can_read:0 "봉건제 폐지"
 FAL_farmers_can_read_desc:0 "All traces of serfdom has been eliminated, and every Falcorian lives as a free griffon. Farmers now own the land they work, and a majority of our population now lives in the bustling, growing cities. Although the former elites bemoan the loss of their privileges, the nation as a whole has prospered as a result. Falcor stands tall as a modern nation!"
 
-FAL_more_factories:0 "Invest in Growing Businesses"
+FAL_more_factories:0 "성장하는 기업에 투자"
 FAL_more_factories_desc:0 "Encouraged by our reforms, many citizens have started their own small scale companies, and factory owners have increased their wages. With careful backing of select establishments, we can increase the rate of growth while maintaining a stable economy."
 
-FAL_more_mil_factories:0 "An Armed Society..."
+FAL_more_mil_factories:0 "무장한 사회..."
 FAL_more_mil_factories_desc:0 "Dangers lurk in the world, both nearby and distant. The only way a proud Falcorian can preserve his freedom is with a weapon - and that requires the expansion of our firearm facilities to ensure everygriff, soldier or civilian, has a way to defend themselves."
 
-FAL_more_trains:0 "Connect the Countryside"
+FAL_more_trains:0 "농촌과 연결"
 FAL_more_trains_desc:0 "Our initial campaign in expanding the railways has been a success, which makes it only senseful that we expand these lines to smaller communities. No matter where a griffon is, he shall be able to find a nearby train station and reach any city in our state."
 
-FAL_new_banks:0 "[Root.Capital.GetName] Central Bank"
+FAL_new_banks:0 "[Root.Capital.GetName] 중앙은행"
 FAL_new_banks_desc:0 "As griffons seek new lives in cities, they find themselves without a sufficient capital to live a decent life. To prevent them from falling prey to loan sharks, a central bank shall be established to regulate the loan giving, serve as a gold repository, and regulate our currency. Of course, the banks will be regulated to ensure the interest rate isn't crippling."
 
-FAL_science2:0 "Falcorian Research Laboratories"
+FAL_science2:0 "팔코르인 연구소"
 FAL_science2_desc:0 "Our scientists clamour for specialised facilities to perform experiments and research without being disturbed. While it is a great expense, they have shown promise and given the results we needed, giving us a solid reason to fund these laboratories so that we may continue achieving new heights in science."
 
-FAL_industry2:0 "Greatness Achieved"
+FAL_industry2:0 "위대한 성취"
 FAL_industry2_desc:0 "From humble beginnings, we have achieved what nogriff thought to be possible - a modern, literate and prosperous Falcor. [FAL.GetLeader]'s success shall be remembered for future generations, and our nation state shall persevere for ages to come."
 
 #military trees
 
-FAL_military_start:0 "Review the Falcorian Army"
+FAL_military_start:0 "팔코르군 검토"
 FAL_military_start_desc:0 "We have a large amount of soldiers ready to fight for Falcor, but their equipment and tactics are woefully outdated. Our priority should be catching up with the other military powers on the continent, by any means necessary."
 
-FAL_land_doctrine_1:0 "Lessons of the Wingbardian War"
+FAL_land_doctrine_1:0 "윙바르디 전쟁의 교훈"
 FAL_land_doctrine_1_desc:0 "Although the war of Wingbardy aggression ended in a defeat, it was not a complete failure. Those who survived learned crucial lessons, both officers and soldiers. Using their knowledge to fortify Falcor to an even greater degree would guarantee our victory, should war arise again."
 
-FAL_infantry_weapons_1:0 "Thunderous Applause"
+FAL_infantry_weapons_1:0 "우레와 같은 박수"
 FAL_infantry_weapons_1_desc:0 "The tried and true methods are called such because they work in any conditions - and that is our approach to warfare. The standard battle rifle of the Falcorian soldiers needs modernisation, to keep up with the ever changing struggle, as well as their other equipment, grenades and protection."
 
 FAL_infantry_support_tactics:0 "Modernise Ordnance"
 FAL_infantry_support_tactics_desc:0 "Artillery is progressively becoming deadlier. Rifling, recoil mechanisms and breech-loading have all allowed for the barrage to continue without delay, while maintaining accuracy. Our existing pieces should be brought to latest standards, and a new design shall be made to begin production in the following years."
 
-FAL_infantry_support_tactics_2:0 "Support Equipment"
+FAL_infantry_support_tactics_2:0 "지원 장비"
 FAL_infantry_support_tactics_2_desc:0 "War isn't just about shooting the other griffon, but to prepare adequately for battle so that losses can be minimised and victory assured. This takes form in the support batallions, who do vital tasks such as reconnaissance, bridge building, hauling supplies and maintaining heavy equipment. Ensuring our soldiers have the best equipment for such tasks could mean everything."
 
 FAL_infantry_support_tactics_3:0 "Shell After Shell"
 FAL_infantry_support_tactics_3_desc:0 "Military thought adapts and evolves constantly to the changing aspect of warfare. What was revolutionary a decade ago is now but a note in history books, and new technologies complicate the matter even further. Our strategies and tactics must reflect the reality."
 
-FAL_infantry_support_tactics_4:0 "Cost Saving Designs"
+FAL_infantry_support_tactics_4:0 "비용 절감 디자인"
 FAL_infantry_support_tactics_4_desc:0 "Cheap does not have to mean crude - with sufficient experimentation and funding, our firearms can be made easier and quicker to produce. As our forces are increasing at a steady pace, this investment should resolve the issue of inadequate and missing equipment."
 
-FAL_infantry_support_tactics_5:0 "Shock and Awe"
+FAL_infantry_support_tactics_5:0 "충격과 공포"
 FAL_infantry_support_tactics_5_desc:0 "Utilising rapid dominance tactics, we can impose an overwhelming level of shock and awe against an enemy quickly enough to paralyze their will to carry on. This will allow us to seize control of the environment and paralyse the enemy's perceptions and understanding of events, leaving them incapable of organised resistance."
 
-FAL_infantry_support_tactics_6:0 "Motorised Infantry"
+FAL_infantry_support_tactics_6:0 "차량화 보병"
 FAL_infantry_support_tactics_6_desc:0 "Motorisation will greatly increase the strategic mobility of our infantry units, which would otherwise be forced to rely on arduous marches or railroads. Motorised infantry have an advantage in agility allowing them to move to critical sectors of the battlefield faster, allowing better response to enemy movements, and the ability to outmanoeuvre the enemy."
 
-FAL_mobile_war_tactics:0 "Improved Battlefield Support"
+FAL_mobile_war_tactics:0 "전장 지원 개선"
 FAL_mobile_war_tactics_desc:0 "Griffons would fight much more effectively on the field, if they knew that their needs would be fully accomodated for. Scouts, supply troops, repairgriffs and battalion runners - they all play a vital role in battle. They must be equipped and trained to the latest standards."
 
-FAL_mobile_war_tactics_1:0 "Artillery in Supporting Role"
+FAL_mobile_war_tactics_1:0 "포병의 지원 역할"
 FAL_mobile_war_tactics_1_desc:0 "Although a massed barrage certainly has its murderous efficiency, the resources spent on developing and producing such high amounts of ordnance would be effectively wasted. The common soldiers need their equipment far more, but it would still be a missed opportunity cost to neglect our artillery development. Restrict their budget and choose the best model they can make."
 
 FAL_mobile_war_tactics_2:0 "Study Foreign Defences"
 FAL_mobile_war_tactics_2_desc:0 "There were many occurences in history, in which a smaller force defeated a greater, much superiour army. Falcor should emulate these heroics of the past by learning from their tactics, even if we can't always rely on luck to befuddle our foes."
 
-FAL_mobile_war_tactics_3:0 "Intensive Training"
+FAL_mobile_war_tactics_3:0 "집중 훈련"
 FAL_mobile_war_tactics_3_desc:0 "To withstand any assault, to protect Falcor, to the last griffon standing - that is the creed our soldiers need to live by. Stricter, more thorough drills will ensure the griffons on the fields are prepared for any occasion and aren't afraid to spit directly in the face of Maar. Falcor does not break, nor does it bend."
 
 FAL_mobile_war_tactics_4:0 "Fortezza Falcor"
@@ -308,16 +308,16 @@ FAL_dreams_achieved_desc:0 "From Wrobert to Minos, [FAL.GetNameDef] stands as th
 
 ########################### Neutral/harmony Path ###########################################
 
-FAL_politcal_unrest:0 "The Ongoing Crisis"
+FAL_politcal_unrest:0 "지속되는 위기"
 FAL_politcal_unrest_desc:0 "The pressure from the radicals has reached a boiling point, and they demand change. Otherwise, they will incite further unrest and potentially overthrow the rightful rule! The Princess has chosen the following course of action: Falcor's most important and influential griffons will be invited to the Matton Residence, whereupon they will decide the future of our nation."
 
-FAL_princess_wins_election:0 "Faith Restored"
+FAL_princess_wins_election:0 "신앙 회복"
 FAL_princess_wins_election_desc:0 "Despite d'Artiglio's machinations, Falcor's most influential have given the monarchy one more chance. Pray that the Princess is steadfast and resolute enough to steer the listing ship that is our nation. Much remains to be done in order to drag Falcor out of the quagmire."
 
 FAL_shattered_nation:0 "United We Must Stand"
 FAL_shattered_nation_desc:0 "Now is not the time for squabbles nor arguments, Falcorians must stand together to reclaim what is theirs. Everygriffon regardless of their political alignment or belief must unite to have a chance at reclaiming our city, and giving the nation a way to resolve its problems."
 
-FAL_loss_of_falcor:0 "Our Beautiful City"
+FAL_loss_of_falcor:0 "우리의 아름다운 도시"
 FAL_loss_of_falcor_desc:0 "The city of Falcor isn't just a heap of buildings connected by roads. It is the source of our culture, our national pride, and everything that comes with it. Our older citizens fondly remember the days strolling through the Market Square, visiting the Royal Palace, and going to the local theatre. Remind the griffons that we will return."
 
 FAL_recover_war:0 "Commence Rebuilding Efforts"
@@ -344,13 +344,13 @@ FAL_proper_training_for_militias_desc:0 "Falcorians fight with enthusiasm and de
 FAL_princess_speech:0 "Maximilliana Speaks"
 FAL_princess_speech_desc:0 "As we stand before this trial, greater than anything we have faced before, we must be ready and willing to fight to the end. As we galvanize the nation for the struggle ahead, the princess' role will be essential. She is the voice of the nation and the fire of our conviction, and while we build the trenches and redoubts along the border, her voice will be there to spur us on."
 
-FAL_fight_falcor:0 "Defiant to the End"
+FAL_fight_falcor:0 "끝까지 저항하다"
 FAL_fight_falcor_desc:0 "Our final attempts to negotiate a peaceful settlement have ended in a failure, and Falcor has no choice left but to prepare for an eventual war. We lack the means to project our force outside our borders, but that won't stop us to utilise all our advantages to fight a protractive defensive battle. This has satisfied the radicals as well, who relish the thought of Wingbardians dying at the walls. Falcor shall stand."
 
 FAL_return_of_queen:0 "The Old Eminence"
 FAL_return_of_queen_desc:0 "The news coming out of Wingbardy has come as a relief to many Falcorians, including Her Majesty the Queen. Having lain sick for a long time, she has finally recovered. After long discussions with her daughter, Her Majesty has ascended to rule the nation once more, determined to find a peaceful way to deal with Falcor's woes."
 
-FAL_wingbardy_friend:0 "Forgive and Forget"
+FAL_wingbardy_friend:0 "용서하고 잊어버리다"
 FAL_wingbardy_friend_desc:0 "Our nation bled and suffered eighteen years ago. Thousands died and the humiliation has burned in us ever since. Yet, in holding onto this, our nation has poisoned itself, becoming determined to cause more pain and more death as if that would bring the dead back to life. We cannot ever bring the dead back, but we can seek to avoid causing even more pain."
 
 FAL_deal_with_the_ones_who_dont_forgive:0 "Imprison Nationalists"
@@ -371,16 +371,16 @@ FAL_reintegrate_falcor_desc:0 "Our great city is once more back in our claws, ye
 FAL_celebrate_return_of_falcor:0 "Proclaim a New National Holiday"
 FAL_celebrate_return_of_falcor_desc:0 "Despite our worst fears, peace prevailed, our erstwhile enemy is now a friend and our homeland is reunited. Her Majesty has proclaimed that the day of Falcor's reunification now and forever more shall be known as "The Day of Concord", where we celebrate the triumphs of peace. We prevailed and reunited with our lost city without a drop of bloodshed. Is that not worthy of celebration?"
 
-FAL_peace_in_falcor:0 "A Nation Reunited"
+FAL_peace_in_falcor:0 "재결합한 나라"
 FAL_peace_in_falcor_desc:0 "Falcor is one once more. We managed to do the impossible and we did so without death and pain. Falcor can now raise her head high as a bastion of Harmony, Peace and Understanding. We did not forge our path on the battlefield, but at the conference table, and while some may scoff at this we know to be proud of this fact."
 
-FAL_seek_aid_to_rebuild:0 "Look for Allies"
+FAL_seek_aid_to_rebuild:0 "동맹을 찾다"
 FAL_seek_aid_to_rebuild_desc:0 "Falcor does not have to be alone in its struggle. Many of our neighbours could be sympathetic, should our arguments be convincing enough. Most importantly, nogriff wants to see Wingbardy lording over the entire region, and this is our strongest justification."
 
 FAL_approach_minitours_for_aid:0 "The Staunch Bovines"
 FAL_approach_minitours_for_aid_desc:0 "The minotaurs of the Asterionese archipelago are renowned for their martial strength and morally righteous behaviour. Although they have issues of their own to handle, it could be possible to convince them that an alliance with Falcor has more benefits than it seems. Jointly, we shall safeguard against Wingbardian aggression."
 
-FAL_combine_efforts_to_rebuild:0 "Civilian Cooperation"
+FAL_combine_efforts_to_rebuild:0 "민간 협력"
 FAL_combine_efforts_to_rebuild_desc:0 "To intensify the newly formed cooperation between our allies, construction projects shall be funded and built by combined worker forces of all nations. It only makes sense that together, we could make so much more than attempting to do everything ourselves. Everycreature benefits, after all."
 
 FAL_import_goods_from_allies:0 "Foreign Amenities"
@@ -398,14 +398,14 @@ FAL_make_falcor_great_again_desc:0 "With the city of Falcor returned to our care
 FAL_make_falcor_home_again:0 "The Exiles' Return"
 FAL_make_falcor_home_again_desc:0 "When Falcor fell to the Wingbardians, countless griffons fled rather than to suffer under their reign. Now, with the return of our precious city, these exiles are coming home once more to their lost homeland."
 
-FAL_long_live_princess:0 "All Hail Her Majesty"
+FAL_long_live_princess:0 "여왕 폐하 만세"https://github.com/DaePokPung/EquestriaAtWar-Korean-Translation/blob/master/localisation/country_FAL_l_english.yml
 FAL_long_live_princess_desc:0 "Many have considered the monarchy to be a relic of the past, dragging Falcor down, but [FAL.GetLeader] has proven otherwise and resolved all of our woes. Our city has been restored, the societal divide has been mended, and there shall be a peace for our time. Long live her majesty!"
 
 ########ideas-flags-leaders-tooltips#####
 
 FAL_angry_birbs:0 "Unyielding Revanchism"
 FAL_angry_birbs_desc:0 "Eighteen years have passed, and the enemy still holds the jewel of our nation. The filthy Wingbardians are despoiling our city, our Falcor! Our citizens have not forgotten, nor will they forgive.\n\nThe most radical of revanchists have gathered under the banner of the Eagles of Falcor, who clamour every week for decisive action to retake what is rightfully ours. Some of them have even abandoned their culture and tongue, preferring to emulate the Imperials in the north. The ruling Princess and her cabinet do not wish for a another war, but can they hold in check an entire legion of exiles?"
-FAL_depression:0 "Despair"
+FAL_depression:0 "절망"
 FAL_depression_desc:0 "Our hearts are sorrowful and broken after the royal pair has died a tragic death, and the old Queen's condition is worsening as well. This might be the darkest days for Falcor."
 FAL_shattered:0 "Forlorn Nation"
 FAL_shattered_desc:0 "Falcor lies staunchly divided between pacifists and warmongers, weary appeasers and rabid nationalists, supporters of Princess Maximilliana and supporters of Gabriele d'Artiglio. Everygriffon wishes to see Falcor returned to our care, but the proposed methods to achieve this goal vary wildly. As such, the nation is deadlocked in this debate while their neighbours grow stronger."
@@ -468,7 +468,7 @@ FAL_mobile_war_tactics_idea_desc:0 "The griffons of Falcor fight with unmatched 
 FAL_airproduction:0 "Pride of the Skies"
 FAL_airproduction_desc:0 "Our nascent airforce attracts many recruits, but many griffons desire to fly a fighter plane above others. Yet still, there are some who'd rather pilot a sturdy bomber. With such demand, we've considerably improved our airplane designs to lower production costs."
 
-FAL_unrest_solved:0 "The crisis has been averted."
+FAL_unrest_solved:0 "위기는 모면했다."
 FAL_unrest:0 "The Princess' rule has broken down."
 FAL_is_alone:0 "We are pursuing a solitary approach."
 FAL_alone:0 "We are pursuing a solitary approach."
@@ -490,7 +490,7 @@ FAL_har_fm_stats_tp:0 "§RAttack Skill§!: §Y1§!\n§YDefense Skill§!: §Y4§!
 FAL_fash_gen_stats_tp:0 "§RAttack Skill§!: §Y4§!\n§YDefense Skill§!: §Y1§!\n§GPlanning Skill§!: §Y3§!\n§CLogistics Skill§!: §Y2§!\n\n"
 FAL_gabriele_stats_tp:0 "War hero §YGabriele d'Artiglio§! will lead the forces against §RWingbardy§! one last time!\n\n§RAttack Skill§!: §Y5§!\n§YDefense Skill§!: §Y2§!\n§GPlanning Skill§!: §Y3§!\n§CLogistics Skill§!: §Y3§!\n\n"
 
-FAL_princess:0 "National Heroine"
+FAL_princess:0 "국민적 영웅"
 
 nice_princess_birb_desc:0 "Crown Princess of the Falcorian realm and the Queen's only child, Maximilliana has led a difficult life. Rushed home from her boarding school after her mother grew weak and ill, she was forced to become the acting ruler at the age of 14, with only the assistance of a noble council who often had different ideas on what was best for Falcor during the tumultuous years after 989. In spite of many difficulties, the young Princess has navigated through the circumstances and brought the nation a relative degree of stability. She has even found love, in the form of a local noble named Alberto, who now acts as Prince-Consort, although he very rarely participates in politics.\n\nBut the peace was not meant to last. Over the years, a large number of griffons, veterans and exiles from the war, have begun clamouring for retribution to what they perceived as Wingbardian tyranny. Thus they threaten the monarchy's rule, with their protests and strikes, and a large number of bystanders supports their side. Princess Maximilliana must find a way to placate the extremists while dealing with a hostile foreign presence, lest the line of Falcor extinguishes."
 revenge_fucking_now_desc:0 "Former colonel in the Falcorian army, Gabriele d'Artiglio has served with distinction in the war against Wingbardy. He took part in the battle of Asbolus Forest, where he was grievously wounded by an artillery shell. Dragged away from the battlefield, he could do nothing but hear news of imminent defeat, which prolonged his recovery, as he believed Falcor was just one battle away from achieving victory. To this day, he still blames neighbouring Sicameon for not intervening in their favour, although the truth is that they were unwilling to assist a despotic monarch. In spite of everything, d'Artiglio was personally commemorated by Queen Maximilliana for his valour and bravery.\n\nConsidered unfit to continue serving in the forces due to his crippled leg, d'Artiglio turned his personal attention to the arts. He became renowned for his poetry and paintings, although art critics have noted that his works were rather heavy on misery and gloom. Over the years, he became a rallying point for Falcor's many veterans and exiles, who likewise thought to have unfinished business with Wingbardy, and organised them into a paramilitary force. d'Artiglio has a personal distaste for the followers who have adopted the Herzlander dialect, believing it to be an unwieldy, ugly language unfit for literature. They are merely tolerated because of the need for unity and numbers.\n\nNow with the pacifist opposition removed, Gabriele d'Artiglio will go through any obstacle to achieve the dream of a restored Falcor, exacting swift retribution on all who have done his nation harm."
@@ -500,10 +500,10 @@ Fev_desc:0 "§YBorn§!: 16th of April, 967 in Bäumedorf, south of Appengen, Bar
 
 ###############Decisions#################
 FAL_JoJo_decisions_category:0 "Settle Old Scores"
-FAL_resistance_decisions_category:0 "The Second War"
-FAL_steal_WNG_navy_category:0 "The Southern Fleet"
+FAL_resistance_decisions_category:0 "2차 전쟁"
+FAL_steal_WNG_navy_category:0 "남부 함대"
 
-FAL_remade_the_old_capital:0 "Restore the Old Capital"
+FAL_remade_the_old_capital:0 "옛 수도 복원"
 FAL_remade_the_old_capital_desc:0 "Matton was never meant to be the seat of our administration. It was a quick measure after the ceasefire was signed, but now with Falcor restored to our rule, we can begin the grand procession to restore things to way they were. Everygriffon is eager to do so."
 FAL_rename_karthin:0 "Rename Karthin to Maximilliana"
 FAL_rename_karthin_desc:0 "Woe to the vanquished! Karthin shall be given a new name to honour our royal family, and to further humiliate the Wingbardians."
@@ -560,7 +560,7 @@ falcor.10.b:0 "Our concerns are more pressing, and we cannot offer help."
 
 falcor.11.t:0 "A Royal Bash"
 falcor.11.d:0 "Raucous celebrations consumed the streets of Falcor today, prompted by the ceremony [FAL.GetLeader] performed in front of the Royal Palace, symbolising the full integration of Falcor back into its rightful home. The city-wide festivities ground business to a halt, not that anygriff felt like complaining. All the pent-up energy of the Falcorian people was released in a burst of unrestrained partying and festivities. All through the day there was much merriment; for one day, the anguish and loss of the past decades was forgotten, and griffons across Falcor sang the praises of [FAL.GetLeader]."
-falcor.11.a:0 "Long live Falcor!"
+falcor.11.a:0 "팔코르 만세!"
 
 falcor.12.t:0 "To Forgive and Forget"
 falcor.12.d:0 "Falcorian envoys have arrived in Karthin bearing gifts and expressing Falcor's desire to put our rivalry behind us and make amends. In line with the policy of Queen Maximilliana, they wish to see our nations enter a new era of peaceful coexistence and cooperation. In fact, they have even expressed an interest in joining the Karthinian Pact!\n\nIt goes without saying that a prerequisite for any serious agreement with the Falcorian Queendom would be our eventual ceding of the city of Falcor. Many Falcorians still resent us for taking the jewel of their nation, and an alliance between our nations would be fatally undermined as long as this source of resentment remained.\n\nTheir offer sounds tempting. If we work with them we could peacefully resolve the tensions between us and be rewarded with a beneficial new alliance."
@@ -617,7 +617,7 @@ falcor_news.1.c:0 "[FAL.GetLeader] is a dangerous griffon."
 falcor_news.2.t:0 "Falcor and Wingbardy Make Amends"
 falcor_news.2.d:0 "[This.GetNewspaperHeader]In a truly stunning development, Falcor and Wingbardy have pledged to put aside the bad blood from their past conflicts and move forward as allies. Representatives from both sides claim this new accord paves the way for a new era of peace and prosperity in southwest Griffonia.\n\n[WNG.GetLeader] and [FAL.GetLeader] cemented the friendship between their nations during a grand summit in Karthin. As part of their agreement, [FAL.GetNameDef] has regained control of the city of Falcor, reuniting their once fractured nation."
 falcor_news.2.a:0 "Peace has prevailed."
-falcor_news.2.b:0 "Cheers to our new friends!"
+falcor_news.2.b:0 "우리의 새로운 친구들에게 건배!"
 falcor_news.2.c:0 "The hatchet has been buried, for now."
 
 #########################################
